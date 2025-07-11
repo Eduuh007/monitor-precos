@@ -7,6 +7,11 @@ Este projeto é uma aplicação que realiza monitoramento de preços de produtos
 - **backend/** — Serviço em Node.js com Cheerio para fazer scraping de preços em sites como Aliexpress.
 - **frontend/** — Interface simples que exibe os preços monitorados (opcional).
 
+🙋‍♂️ Autor
+Desenvolvido por Eduardo Martins
+🔗 GitHub: https://github.com/Eduuh007
+🔗 LinkedIn: https://www.linkedin.com/in/eduardo-martins-575521245
+
 ## 🚀 Como rodar
 
 ### Backend
@@ -15,8 +20,3 @@ Este projeto é uma aplicação que realiza monitoramento de preços de produtos
 cd backend
 npm install
 node index.js
-
-🙋‍♂️ Autor
-Desenvolvido por Eduardo Martins
-🔗 GitHub: https://github.com/Eduuh007
-🔗 LinkedIn: https://www.linkedin.com/in/eduardo-martins-575521245
